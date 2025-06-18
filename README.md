@@ -1,5 +1,5 @@
 # Artificial Neural Networks and Deep Learning HW1 - AY 2024/2025
-
+![Screenshot](images/outlier.png) 
 ## Challenge: Blood Smear Classification
 
 This challenge aimed to classify peripheral blood smears into eight categories using deep learning. We explored:
